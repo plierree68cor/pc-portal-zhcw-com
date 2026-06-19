@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plierree68cor.github.io/pc-portal-zhcw-com/sitemap.xml
